@@ -1,0 +1,1 @@
+document.write("This is branches' practice 1");
